@@ -1,3 +1,21 @@
+调试参数:
+-t
+client
+-c
+cs-bin
+-d
+bin
+--conf
+"../../../../../../../Doc/Configs/luban.conf"
+--customTemplateDir
+"../../../../../../../Doc/Configs/CustomTemplate/CustomTemplate_Client_LazyLoadEx"
+-x
+outputCodeDir="../../../../../../../UnityProject/Assets/AssetRaw/Configs/bytes/"
+-x
+outputDataDir="../../../../../../../UnityProject/Assets/GameScripts/HotFix/GameProto/GameConfig/"
+-x
+tableImporter.name=next-custom
+
 
 - [README 中文](./README.md)
 - [README English](./README_EN.md)
